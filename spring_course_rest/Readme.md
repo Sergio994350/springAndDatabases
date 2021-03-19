@@ -1,5 +1,5 @@
-Spring - REST API
-JSON
-GET и POST
-Exceptions
+Spring - REST API,
+JSON,
+GET и POST,
+Exceptions,
 CRUD
